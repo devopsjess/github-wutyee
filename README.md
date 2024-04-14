@@ -37,14 +37,7 @@ Here are some of the most commonly used Git commands:
 
     git checkout <branch_name>:
 
-Contributing
 
-We welcome contributions from the community! If you have any suggestions for improvements or new tutorials, please feel free to submit a pull request.
-Support
-
-If you encounter any issues or have questions about GitHub Learning, please open an issue or contact support@example.com.
-License
-This project is licensed under the MIT License. Lists all branches in the repository. It also indicates the currently checked out branch with an asterisk (*).
 
 git checkout [branch_name]: Switches to the specified branch, updating the working directory to reflect the state of that branch. It's also used to create new branches by specifying the -b flag followed by the new branch name.
 
