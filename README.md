@@ -1,8 +1,9 @@
-[![N|Solid]GitHub Learning
+# GitHub Learning
 
-[![Build Status]Welcome to GitHub Learning! This repository is designed to help you learn how to use GitHub effectively. Enjoy your learning journey!
-Getting Started
-Clone: Clone this repository to your local machine.
+## Welcome to GitHub Learning! This repository is designed to help you learn how to use GitHub effectively. Enjoy your learning journey!
+
+# Getting Started
+# Clone: Clone this repository to your local machine.
 
 1. git clone https://github.dev/Reyarp85/My_GitHub_Learning
 
