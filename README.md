@@ -1,6 +1,6 @@
 # GitHub Learning
 
-## Welcome to GitHub Learning! This repository is designed to help you learn how to use GitHub effectively. Enjoy your learning journey!
+# Welcome to GitHub Learning! This repository is designed to help you learn how to use GitHub effectively. Enjoy your learning journey!
 
 # Getting Started
 # Clone: Clone this repository to your local machine.
